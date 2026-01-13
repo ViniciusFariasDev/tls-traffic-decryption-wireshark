@@ -30,3 +30,5 @@ The lab was performed using a packet capture file and a TLS session key log file
 2. Load the packet capture file (`randy-chromium.pcapng`).
 3. Navigate to:
 
+(screenshots/tls-decrypted-credentials.png)
+
